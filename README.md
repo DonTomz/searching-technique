@@ -1,2 +1,2 @@
-# searching-technique
-Various searching programs
+# sorting-techniques
+Various sorting programs
